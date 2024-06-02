@@ -1,9 +1,9 @@
 <h1 align="center">I'm Tomás Arno</h1>
 <h3 align="center">A Backend Developer who loves coding</h3>
 
-- 🔭 I’m currently working on [Pernil API](https://github.com/TomasArno/pernil-api)
+- 🔭 I’m currently working on [Proteo]([https://github.com/TomasArno/pernil-api](https://github.com/proteo-dev))
 
-- 🌱 I’m currently learning about **Mongo & .NET**
+- 🌱 I’m currently learning about **React & AWS**
 
 - 📫 How to reach me: **arnotomas1@gmail.com**
 
