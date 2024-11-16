@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PROTEO](https://github.com/proteo-soft)
 
-- 🌱 I’m currently learning about **React & AWS**
+- 🌱 I’m currently learning about **NEST.JS & POSTGRES**
 
 - 📫 How to reach me: **arnotomas1@gmail.com**
 
