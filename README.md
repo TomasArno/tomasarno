@@ -1,7 +1,7 @@
 <h1 align="center">I'm Tomás Arno</h1>
 <h3 align="center">A Backend Developer who loves coding</h3>
 
-- 🔭 I’m currently working on [PROTEO](https://github.com/proteo-soft)
+- 🔭 I’m currently working on [CORE TECH](https://github.com/core-tech-7)
 
 - 🌱 I’m currently learning about **NEST.JS & POSTGRES**
 
